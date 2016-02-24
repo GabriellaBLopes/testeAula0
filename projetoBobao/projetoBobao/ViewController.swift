@@ -26,12 +26,12 @@ class ViewController: UIViewController {
     }
 
     @IBAction func apertouSim(sender: AnyObject) {
-        resultado.text = "Errou!"
+        resultado.text = "jgfgjf!"
     }
     
     
     @IBAction func apertouNao(sender: AnyObject) {
-        resultado.text = "Acertou!"
+        resultado.text = "tytf!"
     }
     
     
