@@ -34,6 +34,7 @@ class ViewController: UIViewController {
     
     @IBAction func apertouNao(sender: AnyObject) {
         resultado.text = "tytf!"
+        
 
     }
     
